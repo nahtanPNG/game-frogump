@@ -1,0 +1,17 @@
+1 - Sprites e Objetos
+	1.1 - Player - FEITO
+	1.2 - Chão - FEITO
+	1.3 - Obstáculo - FEITO
+
+2 - Chão
+	2.1 - Fazer ele ir para baixo - FEITO
+	2.2 - Fazer ele se repetir - FEITO
+	2.3 - Colisão invisível - FEITO
+	
+3 - Sapo
+	2.1 - Quando espaço for apertado ele deve 
+	ir para outra parede - FEITO
+
+4 - Obstáculos
+	4.1 - Criar obstáculos (pedras)
+	
