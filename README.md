@@ -2,7 +2,7 @@
 
 
 # About the game
- You're a frog and you need to jump the obstacles to avoid dying. (It's my first game and my first pixel arts)
+ You're a frog and you need to jump the obstacles to avoid dying. (It's my first game and my first pixel arts). Here is the link of the ich.io site of the game: https://sleepysheep-studio.itch.io/frogump
  
 # Pictures of the game 
 ![Frogump_](https://user-images.githubusercontent.com/93049899/174148712-cb2af7ca-e949-40ab-8c8f-bd2d44614bc4.png)
